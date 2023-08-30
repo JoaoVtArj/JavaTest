@@ -25,7 +25,7 @@ public class teste_matematico {
 		 System.out.printf("A=%.4f%n", A);*/
 		/*int A, B, C, D;
 		A = sc.nextInt();
-		B = sc.nextInt();
+		B = sc.nextInt(33);
 		C = sc.nextInt();
 		D = sc.nextInt();
 		
